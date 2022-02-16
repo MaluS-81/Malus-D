@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malus-D
 - 👀 I’m interested in cyber security, crypto and app devlopment
-- 🌱 I’m currently learning app dev
-- 💞️ I’m looking to collaborate on app dev and portal, pipeline, security automation dev
+- 🌱 I’m currently learning enterprise security and app dev
+- 💞️ I’m looking to collaborate on app dev and security automation 
 - 📫 How to reach me ...
 
 <!---
